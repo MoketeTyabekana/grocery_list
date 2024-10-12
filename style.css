@@ -32,18 +32,37 @@ h1{
 }
 
 /* groceries class */
-.groceries{
-   
+.input-fields{
+  
+   width: 100%;
+   border-radius: 8px;
+   background-color: #fff;
+}
+
+
+input{
+    width: 80%;
+    padding: 8px 16px;
+    border-radius: 8px;
+    margin: 0 0 0 8px;
 }
 
 
 /* Icon */
-.material-symbols-outlined {
+
+
+/* .material-symbols-outlined {
   font-variation-settings:
   'FILL' 0,
   'wght' 400,
   'GRAD' 0,
   'opsz' 24
-}
+} */
+
+
+
+
+
+
 
 
