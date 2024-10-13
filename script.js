@@ -20,7 +20,6 @@ userInput.addEventListener('keydown',function(event){
 });
 
 function addItem(){
-    
-
-    
+    let h2=document.createElement('h2');
+    h2.innerHTML='-'+ userInput.ariaValueMax.trim();
 }
