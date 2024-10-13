@@ -10,3 +10,12 @@ pencil.addEventListener('click',function(){
     items.innerHTML='';
 
 });
+
+userInput.addEventListener('keydown',function(event){
+
+   if(event.key=='Enter'){
+     addItem();
+   }
+
+});
+
