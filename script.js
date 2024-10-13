@@ -19,3 +19,8 @@ userInput.addEventListener('keydown',function(event){
 
 });
 
+function addItem(){
+    
+
+    
+}
